@@ -3,7 +3,7 @@ package sampleproject;
 public class Test {
 	
 	//Variable
-	public String name = "Kiran";
+	public String name = "damodar";
 	
 	public void printName(){
 		System.out.println("My Name is: "+ name);
